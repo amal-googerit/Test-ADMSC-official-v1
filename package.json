@@ -17,7 +17,7 @@
     "test:watch": "vitest",
     "test:ui": "vitest --ui",
     "type-check": "astro check && tsc --noEmit",
-    "prepare": "husky install"
+    "prepare": "husky"
   },
   "dependencies": {
     "@astrojs/react": "^4.0.1",

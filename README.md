@@ -26,7 +26,10 @@ A production-ready React + Astro project with comprehensive tooling, testing, an
 ### Installation
 
 ```bash
-# Enable pnpm
+# Enable pnpm on MacOs 
+sudo corepack enable
+
+# Enable pnpm on windows 
 corepack enable
 
 # Install dependencies
